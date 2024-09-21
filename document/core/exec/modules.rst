@@ -29,6 +29,7 @@ $${definition-prose: allocfunc}
 6. Append :math:`\funcinst` to the |SFUNCS| of :math:`S`.
 
 7. Return :math:`a`.
+
 $${definition: allocfunc}
 
 .. note::
