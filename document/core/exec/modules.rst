@@ -320,6 +320,7 @@ For types, however, allocation is defined in terms of :ref:`rolling <aux-roll-re
 .. _alloc-type:
 
 $${definition-prose: alloctypes}
+
 $${definition: alloctypes}
 
 Finally, export instances are produced with the help of the following definition:
@@ -327,7 +328,9 @@ Finally, export instances are produced with the help of the following definition
 .. _alloc-export:
 
 $${definition-prose: allocexports}
+
 $${definition-prose: allocexport}
+
 $${definition: {allocexports allocexport}}
 
 .. note::
@@ -470,13 +473,16 @@ where:
 .. _eval-globals:
 
 $${definition-prose: evalglobals}
+
 $${definition: evalglobals}
 
 .. _aux-runelem:
 .. _aux-rundata:
 
 $${definition-prose: runelem_}
+
 $${definition-prose: rundata_}
+
 $${definition: runelem_ rundata_}
 
 .. note::
